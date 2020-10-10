@@ -15,6 +15,12 @@
     {{ publications.intro | markdownify }}
   </div><!--//intro-->
   {% endif %}
+  
+  {% if publications.details %}
+    <div class="details">
+      {{ publications.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
 
   {% for publication in publications.papers %}
   <div class="item">
