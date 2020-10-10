@@ -5,6 +5,7 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
+    research: True # set to false if you want in main
 
     # Profile information
     name: Suraj Malladi
@@ -13,10 +14,11 @@ sidebar:
 
     # Sidebar links
     email: surajm@stanford.edu
-    academic: suraj-malladi #do not add http://
+    website: suraj-malladi #do not add http://
     linkedin: suraj-malladi-6b015859
 
-    Research Interests:
+    research:
+    title: Research Interests
       - item: Networks
       - item: Prior-Free Decision Making
       - item: Robust Mechanism Design
