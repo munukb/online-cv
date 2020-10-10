@@ -16,13 +16,6 @@ sidebar:
     website: suraj-malladi #do not add http://
     linkedin: suraj-malladi-6b015859
 
-    research:
-    title: Research Interests
-      - details: Networks
-      - details: Prior-Free Decision Making
-      - details: Robust Mechanism Design
-      - details: Diffusion and Learning
-
 career-profile:
     title: Introduction
     summary: |
