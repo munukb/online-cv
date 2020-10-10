@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
     research: True # set to false if you want in main
 
     # Profile information
@@ -19,10 +19,10 @@ sidebar:
 
     research:
     title: Research Interests
-      - item: Networks
-      - item: Prior-Free Decision Making
-      - item: Robust Mechanism Design
-      - item: Diffusion and Learning
+      - details: Networks
+      - details: Prior-Free Decision Making
+      - details: Robust Mechanism Design
+      - details: Diffusion and Learning
 
 career-profile:
     title: Introduction
