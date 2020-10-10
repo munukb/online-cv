@@ -24,9 +24,7 @@ career-profile:
 publications:
     title: Research
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Include details about research here.
     papers:
       - title: "Just a Few Seeds More: Value of Network Information for Diffusion"
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3062830"
@@ -55,7 +53,7 @@ education:
       university: University of Chicago
       time: 2010 - 2014
       details: |
-        X, Y, and Z
+        List any awards received here
           - Bullet point 1
           - Bullet point 2
 experiences:
