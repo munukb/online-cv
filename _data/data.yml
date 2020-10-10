@@ -21,6 +21,28 @@ career-profile:
     summary: |
       My research belongs to the literature on social learning, networks, delegation and auctions; it is methodologically related to prior-free decision making and robust mechanism design.
 
+publications:
+    title: Research
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    papers:
+      - title: "Just a Few Seeds More: Value of Network Information for Diffusion"
+        link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3062830"
+        authors: with Mohammad Akbarpour and Amin Saberi
+        publication: R&R at the American Economic Review 
+        details: "Identifying the optimal set of individuals to first receive information in a social network is a widely-studied problem in settings such as the diffusion of information, microfinance programs, and new technologies. We show that, for some frequently studied diffusion processes, randomly seeding S + X individuals can prompt a larger cascade than optimally targeting the best S individuals, for a small X. Given these findings, practitioners interested in communicating a message to a large number of people may wish to compare the cost of network-based targeting to that of slightly expanding initial outreach."
+
+      - title: "Learning through the Grapevine: The Impact of Noise and the Breadth and Depth of Social Networks"
+        link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3269543"
+        authors: with Matthew O. Jackson and David McAdams
+        details: "We examine how well agents learn when information reaches them through chains of noisy person-to-person relay. If noise only takes the form of random mutations and transmission failures, then there is a sharp threshold such that a receiver learns fully if she has access to more chains than the threshold and nothing with fewer. Moreover, simple information processing rules can perform as well as fully Bayesian learning. However, if some agents deliberately distort message content, learning may be impossible with any number of chains, even if the fraction of such biased individuals is small."
+
+      - title: "Judged in Hindsight: Regulatory Incentives in Approving Innovations"
+        link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3565187"
+        details: "I study how limited information and ex-post evaluation by third parties affect how regulators design approval rules for innovations. I consider a model in which the regulator designs approval rules to minimize criticism for approval errors and for imposing a costly approval process on innovating firms. This model can explain observed patterns of correlation between firm costs and benefits of approval, why regulators drag their feet on approval decisions even in the face of strong favorable evidence, and support for regulatory sandboxes even if they do not hasten learning. In turn, I consider how a principal (e.g., a politician or legislative body) can optimally delegate authority to the regulator to influence the design of approval rules downstream. The effectiveness and ease of delegation hinge on how the regulator orders the importance of approval errors and costs relative to the principal. When the regulator faces more pressure to reduce errors, the principal suffers no agency costs under the optimal delegation rule. Moreover, this rule takes a simple form and can be implemented without detailed knowledge of the firm's preferences. When the regulator instead faces more pressure to reduce approval costs, the principal cannot avoid agency frictions in general, non-interval delegation rules may be optimal, and the form of these rules are sensitive to the details of regulators' preferences."
+
 education:
     - degree: Ph.D. in Economics
       university: Stanford University
@@ -51,25 +73,3 @@ experiences:
         X, Y, and Z
           - Bullet point 1
           - Bullet point 2
-
-publications:
-    title: Publications
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    papers:
-      - title: "Just a Few Seeds More: Value of Network Information for Diffusion"
-        link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3062830"
-        authors: with Mohammad Akbarpour and Amin Saberi
-        publication: R&R at the American Economic Review 
-        details: "Identifying the optimal set of individuals to first receive information in a social network is a widely-studied problem in settings such as the diffusion of information, microfinance programs, and new technologies. We show that, for some frequently studied diffusion processes, randomly seeding S + X individuals can prompt a larger cascade than optimally targeting the best S individuals, for a small X. Given these findings, practitioners interested in communicating a message to a large number of people may wish to compare the cost of network-based targeting to that of slightly expanding initial outreach."
-
-      - title: "Learning through the Grapevine: The Impact of Noise and the Breadth and Depth of Social Networks"
-        link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3269543"
-        authors: with Matthew O. Jackson and David McAdams
-        details: "We examine how well agents learn when information reaches them through chains of noisy person-to-person relay. If noise only takes the form of random mutations and transmission failures, then there is a sharp threshold such that a receiver learns fully if she has access to more chains than the threshold and nothing with fewer. Moreover, simple information processing rules can perform as well as fully Bayesian learning. However, if some agents deliberately distort message content, learning may be impossible with any number of chains, even if the fraction of such biased individuals is small."
-
-      - title: "Judged in Hindsight: Regulatory Incentives in Approving Innovations"
-        link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3565187"
-        details: "I study how limited information and ex-post evaluation by third parties affect how regulators design approval rules for innovations. I consider a model in which the regulator designs approval rules to minimize criticism for approval errors and for imposing a costly approval process on innovating firms. This model can explain observed patterns of correlation between firm costs and benefits of approval, why regulators drag their feet on approval decisions even in the face of strong favorable evidence, and support for regulatory sandboxes even if they do not hasten learning. In turn, I consider how a principal (e.g., a politician or legislative body) can optimally delegate authority to the regulator to influence the design of approval rules downstream. The effectiveness and ease of delegation hinge on how the regulator orders the importance of approval errors and costs relative to the principal. When the regulator faces more pressure to reduce errors, the principal suffers no agency costs under the optimal delegation rule. Moreover, this rule takes a simple form and can be implemented without detailed knowledge of the firm's preferences. When the regulator instead faces more pressure to reduce approval costs, the principal cannot avoid agency frictions in general, non-interval delegation rules may be optimal, and the form of these rules are sensitive to the details of regulators' preferences."
