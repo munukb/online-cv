@@ -23,12 +23,12 @@ career-profile:
 
 publications:
     title: Research
-    intro: >
+    intro: |
       Interests: 
-      Networks
-      Prior-Free Decision Making
-      Robust Mechanism Design
-      Diffusion and Learning
+      - Networks
+      - Prior-Free Decision Making
+      - Robust Mechanism Design
+      - Diffusion and Learning
     papers:
       - title: "Just a Few Seeds More: Value of Network Information for Diffusion"
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3062830"
@@ -50,28 +50,20 @@ education:
       university: Stanford University
       time: 2015 - Present
       details: |
-        X, Y, and Z
-          - Bullet point 1
-          - Bullet point 2
+        
     - degree: BSc in Mathematics & Economics
       university: University of Chicago
       time: 2010 - 2014
       details: |
-        List any awards received here
-          - Bullet point 1
-          - Bullet point 2
+       
 experiences:
     - role: Research Intern
       time: June 2018 - September 2018
       company: Google, San Francisco
       details: |
         Proposed a novel fairness criterion in auctions and characterized optimal auctions in the presence of informational asymmetries and the fairness constraint; derived empirical tests to measure the size of common value components in search ad auctions.
-          - Bullet point 1
-          - Bullet point 2
+
     - role: Research Analyst
       time: 2014 - 2015
       company: AQR Capital Management, Greenwich, CT
       details: |
-        X, Y, and Z
-          - Bullet point 1
-          - Bullet point 2
