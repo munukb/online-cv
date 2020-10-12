@@ -20,14 +20,10 @@
   <div class="item">
     {% if publication.link %}
       <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
-    {% else %}
+    {% elseif %}
       <li>{{ publication.title }}</li>
-    {% endif %}
-    
-    {% if publications.details %}
-    <div class="details">
-      {{ publications.details | markdownify }}
-    </div><!--//details-->
+     {% elseif %}
+      <li>{{ publications.details | markdownify }}</li>
     {% endif %}
     
     <div class="publication-authors">{{ publication.authors }}</div>
