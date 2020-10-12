@@ -20,7 +20,7 @@
   <div class="item">
     {% if publication.link %}
       <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
-    {% elseif %}
+    {% else %}
       <li>{{ publication.title }}</li>
     {% endif %}
     
