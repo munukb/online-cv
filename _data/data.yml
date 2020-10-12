@@ -24,7 +24,11 @@ career-profile:
 publications:
     title: Research
     intro: >
-      Include details about research here.
+      Interests: 
+      Networks
+      Prior-Free Decision Making
+      Robust Mechanism Design
+      Diffusion and Learning
     papers:
       - title: "Just a Few Seeds More: Value of Network Information for Diffusion"
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3062830"
